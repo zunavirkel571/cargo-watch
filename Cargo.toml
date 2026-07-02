@@ -32,7 +32,7 @@ stderrlog = "0.6.0"
 watchexec = "1.17.2"
 
 [dev-dependencies]
-assert_cmd = "1.0.8"
+assert_cmd = "2.2.2"
 insta = "1.32.0"
 predicates = "3.0.4"
 wait-timeout = "0.2.0"
